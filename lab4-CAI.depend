@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1541951710 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\calculate.h
+
+1545127549 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\feedback.h
+
+1545160608 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\main.c
+	<stdio.h>
+	"menu.h"
+	<string.h>
+
+1545131374 c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\menu.h
+	"testresult.h"
+
+1545131374 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\menu.h
+	"testresult.h"
+
+1541940676 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\score.h
+	"calculate.h"
+
+1541951710 c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\calculate.h
+
+1545160443 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\calculate.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	"calculate.h"
+	"menu.h"
+	"score.h"
+	"feedback.h"
+	"results.h"
+
+1541940676 c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\score.h
+	"calculate.h"
+
+1545127549 c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\feedback.h
+
+1545321410 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\feedback.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"calculate.h"
+	"results.h"
+	"testresult.h"
+	"menu.h"
+	"score.h"
+
+1545160623 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\menu.c
+	<stdio.h>
+	"menu.h"
+	"calculate.h"
+	"feedback.h"
+
+1542983837 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\score.c
+	"score.h"
+	<string.h>
+
+1544373677 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\testresult.c
+
+1544371024 c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\results.c
+	"testresult.c"
+	<stdio.h>
+
+1544373514 c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\testresult.c
+
+1545160852 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\results.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"testresult.h"
+	"menu.h"
+	"score.h"
+
+1545131294 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\results.h
+	"testresult.h"
+
+1545127613 c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\testresult.h
+
+1545127613 source:c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\testresult.h
+
+1545131294 c:\users\jobragne\onedrive - microsoft\learning\kurser\programmering i c\lab4\lab4-cai\results.h
+	"testresult.h"
+
