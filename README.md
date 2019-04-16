@@ -1,4 +1,4 @@
-# CAI-project-in-C
+# CAI Project written in C
 Computer Aided Instructions project from course *Programming In C* delivered by MDH
 
 Try it out with [Code::Blocks][1]
